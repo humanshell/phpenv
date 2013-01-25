@@ -1,4 +1,4 @@
-*__NOTE:__ As of January 1, 2013 the phpenv project has been moved and has a new official maintainer [](). The official repo is now located [here](https://github.com/phpenv/phpenv). If you'd like to contribute, please fork from that repo and open any issues on its [issue tracker](https://github.com/phpenv/phpenv/issues).*
+*__NOTE:__ As of January 1, 2013 the phpenv project has been moved and has a new official [maintainer](https://github.com/nickl-). The official repo is now located [here](https://github.com/phpenv/phpenv). If you'd like to contribute, please fork from that repo and open any issues on its [issue tracker](https://github.com/phpenv/phpenv/issues).*
 
 ## Hello World!
 
