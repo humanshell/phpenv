@@ -1,3 +1,5 @@
+*__NOTE:__ As of January 1, 2013 the phpenv project has been moved and has a new official maintainer [](). The official repo is now located [here](https://github.com/phpenv/phpenv). If you'd like to contribute, please fork from that repo and open any issues on its [issue tracker](https://github.com/phpenv/phpenv/issues).*
+
 ## Hello World!
 
 My name is phpenv. I was designed to help simplify the management of multiple
@@ -244,14 +246,14 @@ run the given command.
 ## Development
 
 The phpenv source code is [hosted on
-GitHub](https://github.com/humanshell/phpenv). It's clean, modular,
+GitHub](https://github.com/phpenv/phpenv). It's clean, modular,
 and easy to understand (thanks to the rbenv project), even if you're not a
 shell hacker.
 
 This project is basically a clone (Read: "search and replace") of the rbenv
 project. It's in need of love and support. If you're interested in improving it
 please feel free to fork, submit pull requests and file bugs on the [issue
-tracker](https://github.com/humanshell/phpenv/issues).
+tracker](https://github.com/phpenv/phpenv/issues).
 
 ### License
 
